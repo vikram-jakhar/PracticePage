@@ -56,7 +56,7 @@ const Practice = () => {
                 </SwiperSlide>
                 <SwiperSlide className='bg-[red] flex-col !flex justify-center items-center rounded-2xl text-white max-w-[390px] min-h-[240px] text-[32px] font-mono font-semibold'>
                     <img className=' rounded-full ' width={90} height={90} src={Rhaul} alt="Rhaul" />
-                    <p>Rhaul Gill</p>
+                    <p>Rahul Gill</p>
                 </SwiperSlide>
                 <SwiperSlide className='bg-[green] flex-col !flex justify-center items-center rounded-2xl text-white max-w-[390px] min-h-[240px] text-[32px] font-mono font-semibold'>
                     <img className=' rounded-full ' width={90} height={90} src={Manoj} alt="Manoj" />
