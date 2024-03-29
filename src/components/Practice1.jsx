@@ -4,16 +4,16 @@ import 'swiper/css/effect-creative';
 import { EffectCreative } from 'swiper/modules';
 import 'swiper/css/navigation';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-import Deepak from '../Assest/img/deepak.jpg'
-import prince from '../Assest/img/prince.jpg'
-import Deepak_jhaj from '../Assest/img/deepak2.jpg'
-import Naman from '../Assest/img/naman.jpg'
-import Sanju from '../Assest/img/sanju.jpg'
-import Rhaul from '../Assest/img/Rhaul.jpg'
-import Manoj from '../Assest/img/manoj.jpg'
-import Vishnu from '../Assest/img/vishnu.jpg'
-import Dinesh from '../Assest/img/dinesh.jpg'
-import Ram from '../Assest/img/ram.jpg'
+import Deepak from '../Assest/img/deepak.webp'
+import prince from '../Assest/img/prince.webp'
+import Deepak_jhaj from '../Assest/img/deepak2.webp'
+import Naman from '../Assest/img/naman.webp'
+import Sanju from '../Assest/img/sanju.webp'
+import Rhaul from '../Assest/img/Rhaul.webp'
+import Manoj from '../Assest/img/manoj.webp'
+import Vishnu from '../Assest/img/vishnu.webp'
+import Dinesh from '../Assest/img/dinesh.webp'
+import Ram from '../Assest/img/ram.webp'
 
 const Practice = () => {
     return (
